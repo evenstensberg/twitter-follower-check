@@ -1,4 +1,3 @@
-import pprint
 import tweepy
 import os
 import sys
